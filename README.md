@@ -10,7 +10,7 @@ Ikuti langkah-langkah berikut untuk menginstall dan menjalankan project ini seca
 
 ### 1. Clone Repository
 ```sh
-git clone [https://github.com/kuramocheez/laravel-spa.git](https://github.com/kuramocheez/laravel-spa.git)
+git clone https://github.com/kuramocheez/laravel-spa.git
 cd laravel-spa
 ```
 
